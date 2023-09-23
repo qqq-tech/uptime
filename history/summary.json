@@ -4,20 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 223,
-    "timeWeek": 198,
-    "timeMonth": 132,
-    "timeYear": 119,
-    "dailyMinutesDown": {
-      "2023-09-22": 9
-    }
+    "time": 117,
+    "timeDay": 170,
+    "timeWeek": 153,
+    "timeMonth": 131,
+    "timeYear": 117,
+    "dailyMinutesDown": {}
   },
   {
     "name": "arisci",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1188,
-    "timeDay": 1755,
-    "timeWeek": 1254,
-    "timeMonth": 1201,
-    "timeYear": 1188,
+    "time": 1192,
+    "timeDay": 1381,
+    "timeWeek": 1337,
+    "timeMonth": 1208,
+    "timeYear": 1192,
     "dailyMinutesDown": {}
   }
 ]
