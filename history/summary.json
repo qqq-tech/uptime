@@ -15,7 +15,9 @@
     "timeWeek": 134,
     "timeMonth": 144,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-18": 0
+    }
   },
   {
     "name": "arisci",
