@@ -26,19 +26,19 @@
     "url": "https://scari.kr",
     "icon": "https://icons.duckduckgo.com/ip3/scari.kr.ico",
     "slug": "arisci",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1467,
-    "timeWeek": 1416,
-    "timeMonth": 1331,
-    "timeYear": 1232,
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1239,
+    "timeDay": 1499,
+    "timeWeek": 1431,
+    "timeMonth": 1337,
+    "timeYear": 1233,
     "dailyMinutesDown": {
-      "2025-02-19": 0
+      "2025-02-19": 29
     }
   }
 ]
